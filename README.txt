@@ -11,7 +11,7 @@ INSTALL INSTRUCTIONS
 
 3. Install node.js from here: https://nodejs.org/en/download/.  Other than running the .exe file, you don't have to do anything else.
 
-4. Open the start.bat file folder.
+4. Open the start.bat file.
 
 If you run into any problems, shoot me a message and I'll see what I can do.
 
