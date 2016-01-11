@@ -1,6 +1,6 @@
 Thank you for downloading CSGO Alt-Tab manager, by /u/anonymous853!
 
-It plays whatever tone/song you have in the /Custom Sounds/primary song folder. All you have to do is set the name as song.mp3 if you want to customize it. This is a great resource for tones: http://soundbible.com/tags-bomb.html
+It plays whatever tone/song you have in the /Custom Sounds/primary song folder. To change it, all you have to do is set the name as song.mp3 if you want to customize it. This is a great resource for tones: http://soundbible.com/tags-bomb.html
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 INSTALL INSTRUCTIONS
