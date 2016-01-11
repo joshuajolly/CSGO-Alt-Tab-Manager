@@ -5,9 +5,11 @@ It plays whatever tone/song you have in the /Custom Sounds/primary song folder. 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 INSTALL INSTRUCTIONS
 
-1. Install node.js from here: https://nodejs.org/en/download/.  Other than running the .exe file, you don't have to do anything else.
+1. Download this repository (top right corner).
 
-2. Click the start.bat file in this folder.
+2. Install node.js from here: https://nodejs.org/en/download/.  Other than running the .exe file, you don't have to do anything else.
+
+3. Open the start.bat file folder.
 
 If you run into any problems, shoot me a message and I'll see what I can do.
 
