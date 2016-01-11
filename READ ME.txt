@@ -11,6 +11,5 @@ INSTALL INSTRUCTIONS
 
 If you run into any problems, shoot me a message and I'll see what I can do.
 
-Also don't run more instance at a time.
-
+Also don't run more instance at a time or else it wont work.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
